@@ -4,7 +4,6 @@ using System;
     {
         static void Main()
         {
-
             string inputFirst = Console.ReadLine();
             string[] inputFirstSplit = inputFirst.Split(' ');
             int rowsFirst = int.Parse(inputFirstSplit[0]);
